@@ -12,3 +12,6 @@ My name is Nicolas and I'm currently studying in the National University of Colo
 ### Experience:
 
 - My most significat expirients too soon is the programs I developed with my team in the Data structures subject. Doing a easy version of the popular game UNO, a travel mannager and an app that assist you searching movies based on your preferences.
+
+
+![python?](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png)

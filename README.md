@@ -19,4 +19,4 @@ My name is Nicolas and I'm currently studying in the National University of Colo
 ![Scratch](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Scratchlogo.svg/3840px-Scratchlogo.svg.png)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" alt="Texto descriptivo" width="300" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" alt="Texto descriptivo" width="100" height="100">

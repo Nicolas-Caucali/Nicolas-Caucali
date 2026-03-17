@@ -5,7 +5,7 @@ My name is Nicolas and I'm currently studying in the National University of Colo
 ### Skills:
 
 - I've worked with different coding languages as Python, C++ and even Assembly. With those, now I understand the different types of data structures and their uses.
-- About Databases, I know everything relate with its structure, I know a bit of query languages as MySQL and Postgress.
+- About Databases, I know everything relate with its structure, I know a bit of query languages as MySQL and Postgres.
 
 - Maybe no too related to the coding stuff, I'm a current B2 in English.
 
